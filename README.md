@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hbin</h1>
 <h3 align="center">前端开发工程师</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Frontend:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
@@ -54,12 +54,18 @@
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
   </a>
+</p>
 
+<h3 align="left">AI / Agent / MCP:</h3>
+<p align="left">
   <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/cursor.svg" alt="cursor" width="40" height="40" />
   </a>
   <a href="https://claude.ai/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/claude.svg" alt="claude" width="40" height="40" />
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openai.svg" alt="openai" width="40" height="40" />
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/langchain.svg" alt="langchain" width="40" height="40" />
@@ -69,5 +75,8 @@
   </a>
   <a href="https://openrouter.ai/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openrouter.svg" alt="openrouter" width="40" height="40" />
+  </a>
+  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
+    <img src="https://modelcontextprotocol.io/favicon.svg" alt="mcp" width="40" height="40" />
   </a>
 </p>
