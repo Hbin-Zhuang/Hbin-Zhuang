@@ -132,5 +132,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">Frontend Engineer · AI Agent Builder · MCP Explorer</p>
